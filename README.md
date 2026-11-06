@@ -48,15 +48,12 @@
 
 ## ✦ 封印之书 · Sealed Grimoires
 
-<!-- 在这里放上你挑选的项目。复制一行 <a> 块，把 repo=xxx 改成仓库名即可 -->
+<!-- 加新项目：复制 assets/grimoire-yuxianqaq.svg 改名改字，再复制下面的 <a> 块改链接 -->
 <div align="center">
 
 <a href="https://github.com/OxMianBaoxO/yuxianqaq">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=OxMianBaoxO&repo=yuxianqaq&theme=radical&bg_color=0d0221&title_color=c77dff&icon_color=c71585&text_color=e0c3fc&border_color=7b2cbf" alt="yuxianqaq" />
+  <img src="./assets/grimoire-yuxianqaq.svg" width="420" alt="yuxianqaq" />
 </a>
-<!-- <a href="https://github.com/OxMianBaoxO/项目名">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=OxMianBaoxO&repo=项目名&theme=radical&bg_color=0d0221&title_color=c77dff&icon_color=c71585&text_color=e0c3fc&border_color=7b2cbf" />
-</a> -->
 
 </div>
 
@@ -64,14 +61,15 @@
 
 ## ✦ 魔力观测 · Mana Readings
 
+<!-- 下面的卡片由 .github/workflows/profile-cards.yml 每 12 小时自动生成到本仓库 -->
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=OxMianBaoxO&show_icons=true&hide_border=false&bg_color=0d0221&title_color=c77dff&icon_color=c71585&text_color=e0c3fc&border_color=7b2cbf&custom_title=%E9%AD%94%E5%8A%9B%E8%A7%82%E6%B5%8B%E6%8A%A5%E5%91%8A" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OxMianBaoxO&layout=compact&bg_color=0d0221&title_color=c77dff&text_color=e0c3fc&border_color=7b2cbf&custom_title=%E5%B8%B8%E7%94%A8%E5%92%92%E8%AF%AD" alt="langs" />
+<img src="./profile-summary-card-output/radical/0-profile-details.svg" width="100%" alt="魔力波动曲线" />
+
+<img src="./profile-summary-card-output/radical/3-stats.svg" height="180" alt="魔力观测报告" />
+<img src="./profile-summary-card-output/radical/2-most-commit-language.svg" height="180" alt="常用咒语" />
 
 <img src="https://streak-stats.demolab.com?user=OxMianBaoxO&background=0D0221&border=7B2CBF&ring=C71585&fire=C77DFF&currStreakNum=E0C3FC&sideNums=E0C3FC&currStreakLabel=C77DFF&sideLabels=C77DFF&dates=9D7CBF&stroke=3C096C" alt="streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=OxMianBaoxO&bg_color=0d0221&color=e0c3fc&line=c71585&point=c77dff&area=true&area_color=7b2cbf&hide_border=false&custom_title=%E9%AD%94%E5%8A%9B%E6%B3%A2%E5%8A%A8%E6%9B%B2%E7%BA%BF" width="100%" alt="activity" />
 
 </div>
 
