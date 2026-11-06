@@ -46,6 +46,64 @@
 
 ---
 
+## ✦ 幻影剧场 · MV Works
+
+> *「旋律是咒语，代码是魔法阵 —— 每一帧都由程序亲手绘制。」*
+
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/OxMianBaoxO/countdown-mv"><img src="https://raw.githubusercontent.com/OxMianBaoxO/countdown-mv/main/media/cover.jpg" width="100%" alt="最后一张" /></a>
+<br/><b>✦ 最后一张</b>
+<br/><sub>邓紫棋《倒数》MG 动画 MV</sub>
+<br/><sub>Canvas 实时渲染 · 3:49 · 1080p60</sub>
+<br/><a href="https://github.com/OxMianBaoxO/countdown-mv/releases/latest"><img src="https://img.shields.io/badge/%E2%96%B6%20%E8%A7%82%E7%9C%8B%E6%88%90%E7%89%87-1080p60-c71585?style=flat-square" alt="观看成片" /></a>
+<a href="https://github.com/OxMianBaoxO/countdown-mv"><img src="https://img.shields.io/badge/%E5%92%92%E6%96%87%E6%BA%90%E7%A0%81-GitHub-7b2cbf?style=flat-square&logo=github" alt="源码" /></a>
+</td>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/OxMianBaoxO/dalabengba-mv"><img src="https://raw.githubusercontent.com/OxMianBaoxO/dalabengba-mv/main/media/cover.jpg" width="100%" alt="达拉崩吧 · 纸艺" /></a>
+<br/><b>✦ 达拉崩吧 · 纸艺</b>
+<br/><sub>周深 Live 版 纸艺 MV</sub>
+<br/><sub>纯代码纸艺动画 · 4:05 · 1080p30</sub>
+<br/><a href="https://github.com/OxMianBaoxO/dalabengba-mv/releases/latest"><img src="https://img.shields.io/badge/%E2%96%B6%20%E8%A7%82%E7%9C%8B%E6%88%90%E7%89%87-1080p30-c71585?style=flat-square" alt="观看成片" /></a>
+<a href="https://github.com/OxMianBaoxO/dalabengba-mv"><img src="https://img.shields.io/badge/%E5%92%92%E6%96%87%E6%BA%90%E7%A0%81-GitHub-7b2cbf?style=flat-square&logo=github" alt="源码" /></a>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/OxMianBaoxO/heaven-devil-mv"><img src="https://raw.githubusercontent.com/OxMianBaoxO/heaven-devil-mv/main/media/cover.jpg" width="100%" alt="引力之城" /></a>
+<br/><b>✦ 引力之城</b>
+<br/><sub>邓紫棋《来自天堂的魔鬼》MV 导演版</sub>
+<br/><sub>p5.js + p5.brush · 4:05 · 1080p30</sub>
+<br/><a href="https://github.com/OxMianBaoxO/heaven-devil-mv/releases/latest"><img src="https://img.shields.io/badge/%E2%96%B6%20%E8%A7%82%E7%9C%8B%E6%88%90%E7%89%87-1080p30-c71585?style=flat-square" alt="观看成片" /></a>
+<a href="https://github.com/OxMianBaoxO/heaven-devil-mv"><img src="https://img.shields.io/badge/%E5%92%92%E6%96%87%E6%BA%90%E7%A0%81-GitHub-7b2cbf?style=flat-square&logo=github" alt="源码" /></a>
+</td>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/OxMianBaoxO/runaway-star-mv"><img src="https://raw.githubusercontent.com/OxMianBaoxO/runaway-star-mv/main/media/cover.jpg" width="100%" alt="逃逸星" /></a>
+<br/><b>✦ 逃逸星</b>
+<br/><sub>《來自天堂的魔鬼》WebGL MV</sub>
+<br/><sub>全部由着色器生成 · 4:09 · 1080p60</sub>
+<br/><a href="https://github.com/OxMianBaoxO/runaway-star-mv/releases/latest"><img src="https://img.shields.io/badge/%E2%96%B6%20%E8%A7%82%E7%9C%8B%E6%88%90%E7%89%87-1080p60-c71585?style=flat-square" alt="观看成片" /></a>
+<a href="https://github.com/OxMianBaoxO/runaway-star-mv"><img src="https://img.shields.io/badge/%E5%92%92%E6%96%87%E6%BA%90%E7%A0%81-GitHub-7b2cbf?style=flat-square&logo=github" alt="源码" /></a>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/OxMianBaoxO/world-gift-mv"><img src="https://raw.githubusercontent.com/OxMianBaoxO/world-gift-mv/main/media/cover.jpg" width="100%" alt="窗花" /></a>
+<br/><b>✦ 窗花</b>
+<br/><sub>王菲《世界赠予我的》MG 动画 MV</sub>
+<br/><sub>Canvas 剪纸剪影动画 · 4:04 · 1080p60</sub>
+<br/><a href="https://github.com/OxMianBaoxO/world-gift-mv/releases/latest"><img src="https://img.shields.io/badge/%E2%96%B6%20%E8%A7%82%E7%9C%8B%E6%88%90%E7%89%87-1080p60-c71585?style=flat-square" alt="观看成片" /></a>
+<a href="https://github.com/OxMianBaoxO/world-gift-mv"><img src="https://img.shields.io/badge/%E5%92%92%E6%96%87%E6%BA%90%E7%A0%81-GitHub-7b2cbf?style=flat-square&logo=github" alt="源码" /></a>
+</td>
+<td width="50%" align="center" valign="middle"><sub>✦ 下一卷幻影<br/>正在咏唱中……</sub></td>
+</tr>
+</table>
+
+<sub>⚠ 以上均为非官方同人作品，仅供交流学习；歌曲版权归原作者及版权方所有。成片 MP4 在各仓库的 Release 中下载。</sub>
+
+---
+
 ## ✦ 封印之书 · Sealed Grimoires
 
 <!-- 加新项目：复制 assets/grimoire-yuxianqaq.svg 改名改字，再复制下面的 <a> 块改链接 -->
